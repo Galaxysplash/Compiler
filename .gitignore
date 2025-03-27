@@ -1,0 +1,10 @@
+Build/*
+Build
+
+.venv/*
+.venv
+
+.idea/*
+.idea
+
+Compiler.proj.DotSettings
